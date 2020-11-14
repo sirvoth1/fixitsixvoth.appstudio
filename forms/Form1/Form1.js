@@ -44,3 +44,8 @@ switch (choice) {
     default:
         alert('See ya later!');
 }
+
+//making sure Github works
+x = 5
+
+y = 853
